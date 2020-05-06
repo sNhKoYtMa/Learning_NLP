@@ -2,6 +2,7 @@
 個人的な学習の記録<br>
 実行はgoogle Colaboratoryで行った．<br>
 用いたデータは夏目漱石の吾輩は猫であるで，[青空文庫](https://www.aozora.gr.jp/cards/000148/card789.html)に上がっているものを利用した．<br>
+吾輩は猫であるだけだと圧倒的にデータ不足なので，データ不足感が否めない．
 
 ## 目次
 [データの前処理](https://github.com/sNhKoYtMa/Learning_NLP/blob/master/Preprocessing.ipynb)：正規表現(re)<br>
